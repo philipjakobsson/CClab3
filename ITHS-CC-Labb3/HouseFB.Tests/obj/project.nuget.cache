@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "OnoGjlAfuGTuVI//FWz+zQkjg4E7JZSZ5ouOCM8HuRb99T9xA/B6o8NGv/nA+Qcb8TYub3Lcts/HbOaXSx3Bpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\phili\\Source\\Repos\\ITHS-CC-Labb3\\HouseFB.Tests\\HouseFB.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phili\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
+    "C:\\Users\\phili\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
+    "C:\\Users\\phili\\.nuget\\packages\\microsoft.net.test.sdk\\16.11.0\\microsoft.net.test.sdk.16.11.0.nupkg.sha512",
+    "C:\\Users\\phili\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\phili\\.nuget\\packages\\nunit3testadapter\\4.0.0\\nunit3testadapter.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
