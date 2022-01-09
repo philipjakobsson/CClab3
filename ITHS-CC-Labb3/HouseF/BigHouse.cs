@@ -12,7 +12,7 @@ namespace HouseF.Houses
         {
             NoOfRooms = 8;
             NoOfWindows = 16;
-            StreetAdress = "LargeHouse street 1";
+            StreetAdress = "Stora Vägen";
             HasSwimmingPool = true;
             ParkingSpotsInGarage = 5;
         }
